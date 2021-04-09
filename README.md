@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @MontyMango, or Cam
+# 👋 Hi, I’m MontyMango
+
+
 - 👀 I’m interested in Python 3, and learning more programming language.
 - 🌱 I’m currently learning and trying to master Python 3
 - 💞️ I’m looking to collaborate on nothing right now...
