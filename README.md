@@ -1,4 +1,4 @@
-# 👋 Yo, I’m MontyMango
+# 👋 Hi, I’m MontyMango
 
 
 - 👀 I’m interested in Python 3, and learning more programming language.
