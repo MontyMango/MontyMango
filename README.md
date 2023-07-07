@@ -1,9 +1,9 @@
 # 👋 Hey, I’m MontyMango
 
 
-- 👀 I’m interested in Python 3, and learning more programming languages.
-- 🌱 I’m currently learning Java, and some more Python 3.
-- 📫 How to reach me on here is commenting on my repositories.
+- 👀 I’m interested in learning new technologies.
+- 🌱 I’m currently learning Java.
+- 📫 How to reach me is either making comments on here
 - 📙 I'm currently a novice in programming, so I might not publish high quality work. Sorry. ;(
 
 <!--
