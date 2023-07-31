@@ -1,10 +1,10 @@
 # 👋 Hey, I’m MontyMango
 
 
-- 👀 I’m interested in learning new technologies.
+- 👀 I’m interested in learning new technologies, and new programming languages!
 - 🌱 I’m currently learning Java.
-- 📫 How to reach me is either making comments on here
-- 📙 I'm currently a novice in programming, so I might not publish high quality work. Sorry. ;(
+- 📫 How to reach me is making comments on my repositories!
+- 📙 I'm currently a novice in programming, so I might not publish high quality work. Sorry. :'(
 
 <!--
 - 💞️ I’m looking to collaborate on nothing right now...
